@@ -2,12 +2,4 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
-
-kndcwbdcndjbcjkwb wnckjnwkjcn
-
-weferfe
-erfegf
-erf
-
-test -am
+##Website Content
