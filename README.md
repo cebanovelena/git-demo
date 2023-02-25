@@ -9,3 +9,5 @@ kndcwbdcndjbcjkwb wnckjnwkjcn
 weferfe
 erfegf
 erf
+
+test -am
